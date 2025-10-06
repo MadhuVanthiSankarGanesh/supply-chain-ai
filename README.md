@@ -68,7 +68,7 @@ The Streamlit interface (`streamlit/enhanced_streamlit_app.py`) provides:
 | Section             | Screenshot                                   |
 | ------------------- | -------------------------------------------- |
 | 🏠 Main Dashboard   | ![Main Dashboard](assets/main_dashboard.png) |
-| 📊 Risk Dashboard   | ![Risk Dashboard](assets/risk_dashboard.png) |
+| 📊 Risk Dashboard   | ![Risk Dashboard](assets/RiskDashboard.png) |
 | 🗺️ Route Analysis  | ![Route Analysis](assets/route_analysis.png) |
 | 📄 Report Generator | ![Reports](assets/reports.png)               |
 
