@@ -153,16 +153,6 @@ DATABRICKS_TOKEN=your_databricks_token
    * `03_FeatureEnginnering_RiskAnalysis.ipynb`
    * `04_AIAgent_CloudDeployment.ipynb`
 
-## 📈 Performance Overview
-
-| Metric                    | Description                                      |
-| ------------------------- | ------------------------------------------------ |
-| ⏱️ **Processing Latency** | < 5 minutes for real-time event updates          |
-| 🌍 **Data Coverage**      | 150+ countries and multiple event categories     |
-| ⚙️ **Scalability**        | Handles millions of daily records via Databricks |
-| 🤖 **AI Integration**     | Dynamic risk summaries via Azure OpenAI          |
-
-
 ## 📄 License
 
 This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
