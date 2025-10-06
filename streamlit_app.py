@@ -196,8 +196,13 @@ def display_conversation_history(history):
                 st.markdown(f'<div class="ai-response"><strong>🤖 AI:</strong> {message[11:]}</div>', unsafe_allow_html=True)
 
 def main():
+    # Get base_url from Streamlit secrets with fallback
+    try:
+        base_url = st.secrets.get("API", {}).get("BASE_URL", "https://preferable-margherita-undelegated.ngrok-free.dev")
+    except:
+        base_url = "https://preferable-margherita-undelegated.ngrok-free.dev"
+    
     # Initialize enhanced AI client
-    base_url = "https://preferable-margherita-undelegated.ngrok-free.dev"  # Replace with actual URL
     ai_client = EnhancedSupplyChainAI(base_url)
     
     # Header
@@ -560,4 +565,4 @@ def show_footer():
 
 if __name__ == "__main__":
     main()
-    show_footer()  
+    show_footer()
