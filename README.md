@@ -157,7 +157,3 @@ DATABRICKS_TOKEN=your_databricks_token
 
 This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
 
-
-```
-
-You can copy this entire content and paste it into a `README.md` file in your repository. All formatting, tables, code blocks, and structure will be preserved.
