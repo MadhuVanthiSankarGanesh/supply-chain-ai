@@ -2,7 +2,7 @@
 
 An **end-to-end intelligent supply chain monitoring platform** built with **Azure Databricks, Azure OpenAI, and Streamlit**, providing real-time insights into logistics disruptions, route risks, and global trade vulnerabilities.
 
-![Main Dashboard](assets/main_dashboard.png)
+![Main Dashboard](assets/main page.png)
 
 ## 🌐 Overview
 
