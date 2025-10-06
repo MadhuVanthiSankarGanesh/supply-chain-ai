@@ -16,7 +16,7 @@ Real-time supply chain risk analysis powered by Azure OpenAI and Databricks.
 - **APIs**: GDACS, GNews
 
 ## Live Demo
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app-name.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://supply-chain-ai-smchpstajndwkv8jjb6zwq.streamlit.app/)
 
 ## Local Development
 ```bash
